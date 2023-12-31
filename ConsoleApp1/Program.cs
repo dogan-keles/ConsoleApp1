@@ -172,7 +172,7 @@ namespace ConsoleApp1
             else
             {
                 Console.WriteLine("Go to College");
-            }
+                            }
             Console.WriteLine(age);
 
             bool canDrive = age >= 16 ? true : false;
@@ -382,9 +382,9 @@ namespace ConsoleApp1
             x = y;
             y = temp;
             return x + y;
-                    }
+        }
 
     }
-}
+    }
 
                           
